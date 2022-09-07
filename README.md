@@ -5,6 +5,7 @@
 - 🌱  I’m currently using Python for web development (Django / Flask) and data science (numpy, pandas, scripy, matplotlib). 
 - 🌱  I'm also spend time expanding my knowledge in javascript frameworks such as node, react, react-native and some tools like ajax, three.js, jquery and typescript.
 - 💞️  I recently finished working on building my first 3D website in javascript and currently am working on a blockchain application in Python (Flask).
+- 💞️  Most recently I have been learning to ML/AI deep learning ( Tensorflow/Keras ) for utilization in an Earth Observation project.
 - 📫  You can mail me through franklin@digitize-africa.co.ke
 
 <!---
