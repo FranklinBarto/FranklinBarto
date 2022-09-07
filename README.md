@@ -1,7 +1,7 @@
 - 👋  Hi, I’m @Frankothe196
 - 👀  I’m interested in software development / engineering. (HTML / CSS&SCSS / PHP / PYTHON / C / C++ / JAVA / JAVASCRIPT). 
 - 👀  I also have experince working with both structured and unstructured databases (SQL / mongoDB / Firebase).
-- 👀  I also do UI/UX for my products and have some skillsets in 2D and 3D design.
+- 👀  I also work on the UI/UX for my products as I have some skillsets in 2D and 3D design.
 - 🌱  I’m currently using Python for web development (Django / Flask) and data science (numpy, pandas, scripy, matplotlib). 
 - 🌱  I'm also spend time expanding my knowledge in javascript frameworks such as node, react, react-native and some tools like ajax, three.js, jquery and typescript.
 - 💞️  I recently finished working on building my first 3D website in javascript and currently am working on a blockchain application in Python (Flask).
