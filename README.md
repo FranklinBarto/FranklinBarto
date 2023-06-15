@@ -17,7 +17,6 @@
 I primarily work as a full stack developer, but I also have a strong involvement in UI/UX, DevOps, and Data Science. Currently, I'm actively learning machine learning.
 
 ---
-<br/>
 
 ## Below is a bunch of tools I am conversant with
 
