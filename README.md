@@ -20,7 +20,7 @@ I primarily work as a full stack developer, but I also have a strong involvement
 
 ## Below is a bunch of tools I am conversant with
 
-### Fullstack
+### Web Development
 <p>
   <img alt="python" src="https://img.shields.io/badge/-Python-4584b6?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-4584b6?style=flat-square&logo=Django&logoColor=white" />
@@ -36,26 +36,29 @@ I primarily work as a full stack developer, but I also have a strong involvement
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-E34F26?style=flat-square&logo=Css&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
 </p>
 
-### Data
+### Data Engineering
 <p>
   <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-13aa52?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/-MySql-13aa52?style=flat-square&logo=MySql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-4584b6?style=flat-square&logo=python&logoColor=white" />
+  <img alt="JupyterHub" src="https://img.shields.io/badge/-JupyterHub-F37726?style=flat-square&logo=jupyter&logoColor=white" />
+  <img alt="Geoserver" src="https://img.shields.io/badge/-GeoServer-008BC0?style=flat-square&logo=geoserver&logoColor=white" />
+  <img alt="OpenDatCube" src="https://img.shields.io/badge/-OpenDataCube-8DABD5?style=flat-square&logo=cube&logoColor=white" />
 </p>
 
 ### DevOps
 <p>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="jenkins" src="https://img.shields.io/badge/-jenkins-CB3837?style=flat-square&logo=jenkins&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-ff9900?style=flat-square&logo=amazon&logoColor=white" />
-  <img alt="jenkins" src="https://img.shields.io/badge/-jenkins-CB3837?style=flat-square&logo=jenkins&logoColor=white" />
   <img alt="jira" src="https://img.shields.io/badge/-jira-CB3837?style=flat-square&logo=jira&logoColor=white" />
 </p>
 
@@ -66,6 +69,14 @@ I primarily work as a full stack developer, but I also have a strong involvement
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-e37200?style=flat-square&logo=Blender&logoColor=white" />
   <img alt="InkScape" src="https://img.shields.io/badge/-Inkscape-6642bc?style=flat-square&logo=Inkscape&logoColor=white" />
   <img alt="Gimp" src="https://img.shields.io/badge/-Gimp-45b8d8?style=flat-square&logo=Gimp&logoColor=white" />
+</p>
+
+
+### Currently Learning
+<p>
+  <img alt="Figma" src="https://img.shields.io/badge/-TensorFlow-F78900?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-PyTorch-E74A2B?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Kubernetes-316BDD?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
 
 <h3> 📫 You can mail me through <a href="mailto:hello@franklinbarto.com">hello@franklinbarto.com</a>
