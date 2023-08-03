@@ -10,11 +10,10 @@
     </a>
 </p>
 
-## Jambo!
+### 👋  I’m @Frankothe196, a software developer, who loves to build things on the web!
 
-### 👋 I’m @Frankothe196, a software developer, who loves to build things on the web!
-
-I primarily work as a full stack developer, but I also have a strong involvement in UI/UX, DevOps, and Data Science. Currently, I'm actively learning machine learning.
+Primarily, I work as a full stack developer. I also have a strong involvement in UI/UX, DevOps, and Data Science. 
+Currently, I'm learning AI/ML and some React-Native.
 
 ---
 
