@@ -10,9 +10,9 @@
     </a>
 </p>
 
-### 👋  I’m @Frankothe196, a software developer, who loves to build things on the web!
+### 👋  I’m Franklin Barto, a software developer building things on the web!
 
-Primarily, I work as a full stack developer. I also have a strong involvement in UI/UX, DevOps, and Data Science. 
+Primarily, I work as a full stack developer, but also have experience in Product Design, DevOps, and Data Science. 
 Currently, I'm learning AI/ML and some React-Native.
 
 ---
