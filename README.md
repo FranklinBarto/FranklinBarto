@@ -12,12 +12,12 @@
 
 ### 👋  I’m Franklin Barto, a software developer building things on the web!
 
-Primarily, I work as a full stack developer, but also have experience in Product Design, DevOps, and Data Science. 
+Primarily, I work as a full stack dev, but also have experience in Product Design, DevOps, and Data Science. 
 Currently, I'm learning AI/ML and some React-Native.
 
 ---
 
-## Below is a bunch of tools I am conversant with
+## Below is a bunch of tools I am experienced with
 
 ### Web Development
 <p>
