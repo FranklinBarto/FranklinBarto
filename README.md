@@ -12,8 +12,9 @@
 
 ### 👋  I’m Franklin Barto, a software developer building things on the web!
 
-Primarily, I work as a full stack dev, but also have experience in Product Design, DevOps, and Data Science. 
-Currently, I'm learning AI/ML and some React-Native.
+Primarily, I work as a full stack dev, but also have experience in Product Design, DevOps, and Data Science.
+
+I'm currently learning AI/ML.
 
 ---
 
@@ -29,7 +30,6 @@ Currently, I'm learning AI/ML and some React-Native.
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-45b8d8?style=flat-square&logo=Gatsby&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-8892be?style=flat-square&logo=php&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-E34F26?style=flat-square&logo=Css&logoColor=white" />
@@ -78,4 +78,4 @@ Currently, I'm learning AI/ML and some React-Native.
   <img alt="Figma" src="https://img.shields.io/badge/-Kubernetes-316BDD?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
 
-<h3> 📫 You can mail me through <a href="mailto:hello@franklinbarto.com">hello@franklinbarto.com</a>
+<h3> 📫 You can mail me at <a href="mailto:hello@franklinbarto.com">hello@franklinbarto.com</a>
