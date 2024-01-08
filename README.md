@@ -73,9 +73,10 @@ I'm currently learning AI/ML.
 
 ### Currently Learning
 <p>
-  <img alt="Figma" src="https://img.shields.io/badge/-TensorFlow-F78900?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-PyTorch-E74A2B?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Kubernetes-316BDD?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="sci-kitlearn" src="https://img.shields.io/badge/-scikit-000000?style=flat-square&logo=scikitlearn" />
+  <img alt="Tensorflow" src="https://img.shields.io/badge/-TensorFlow-F78900?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="pytorch" src="https://img.shields.io/badge/-PyTorch-E74A2B?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-316BDD?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
 
 <h3> 📫 You can mail me at <a href="mailto:hello@franklinbarto.com">hello@franklinbarto.com</a>
