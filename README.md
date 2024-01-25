@@ -20,15 +20,13 @@ I'm currently learning AI/ML.
 
 ## What I build with
 
-### Web Development
+### Programming
 <p>
   <img alt="python" src="https://img.shields.io/badge/-Python-4584b6?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-4584b6?style=flat-square&logo=Django&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-8892be?style=flat-square&logo=php&logoColor=white" />
   <img alt="Three.js" src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
 </p>
 
