@@ -10,11 +10,9 @@
     </a>
 </p>
 
-### 👋  I’m Franklin Barto, a software developer building things on the web!
+### 👋  I’m Franklin Barto and I build things on the web!
 
-Primarily, I work as a full stack dev, but also have experience in Product Design, DevOps, and Data Science.
-
-I'm currently learning AI/ML.
+Primarily, I work as a full stack dev, but also have experience in UI/UX, DevOps, Data Science and AI/ML.
 
 ---
 
