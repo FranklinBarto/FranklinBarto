@@ -18,7 +18,7 @@ Primarily, I work as a full stack dev, but also have experience in UI/UX, DevOps
 
 ## What I build with
 
-### Programming
+### Languages
 <p>
   <img alt="python" src="https://img.shields.io/badge/-Python-4584b6?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=white" />
@@ -52,7 +52,6 @@ Primarily, I work as a full stack dev, but also have experience in UI/UX, DevOps
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=Figma&logoColor=white" />
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-e37200?style=flat-square&logo=Blender&logoColor=white" />
   <img alt="InkScape" src="https://img.shields.io/badge/-Inkscape-6642bc?style=flat-square&logo=Inkscape&logoColor=white" />
-  <img alt="Gimp" src="https://img.shields.io/badge/-Gimp-45b8d8?style=flat-square&logo=Gimp&logoColor=white" />
 </p>
 
 
