@@ -12,7 +12,7 @@
 
 ### 👋  I’m Franklin Barto and I build things on the web!
 
-Primarily, I work as a full stack dev, but also have experience in UI/UX, DevOps, Data Science and AI/ML.
+Full stack developer with experience in DevOps, UI/UX, data science, and AI/ML.
 
 ---
 
