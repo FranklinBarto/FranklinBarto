@@ -24,6 +24,7 @@ Full stack developer with experience in cloud computing (HPC), CI/CD, Data Scien
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img alt="php" src="https://img.shields.io/badge/-PHP-4584b6?style=flat-square&logo=Php&logoColor=white" />
 </p>
 
 ### Data Engineering
