@@ -15,7 +15,7 @@
 Full stack developer with experience in cloud computing (HPC), CI/CD, Data Science, AI/ML, UI/UX and more recently software testing.
 
 
-I also do talk about AI and Data on <a href="https://ai.franklinbarto.com">ai.franklinbarto.com</a> occasonally
+### I also do talk about AI and Data on <a href="https://ai.franklinbarto.com">ai.franklinbarto.com</a> occasonally
 ---
 
 ## What I build with
